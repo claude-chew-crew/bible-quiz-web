@@ -1,0 +1,1 @@
+web: gunicorn bible_quiz_web:app
