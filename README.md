@@ -39,7 +39,6 @@ Built for study groups, competitions, and personal learning — with features th
 git clone https://github.com/YOUR_USERNAME/bible-quiz-web.git
 cd bible-quiz-web
 
-
 2. Install Dependencies
 It’s best to use a virtual environment:
 python -m venv venv
@@ -56,7 +55,6 @@ This creates bible_quiz.db with all your questions.
 4. Run the Web App
 python bible_quiz_web.py
 
-
 Then open http://127.0.0.1:5000 in your browser.
 
 📂 Project Structure
@@ -67,7 +65,6 @@ bible-quiz-web/
 ├── requirements.txt         # Dependencies
 └── README.md                # Project documentation
 
-
 
 📦 Requirements
 - Python 3.8+
@@ -77,7 +74,6 @@ bible-quiz-web/
 - openpyxl
 Install them all with:
 pip install -r requirements.txt
-
 
 
 🧠 Usage Notes
@@ -106,6 +102,4 @@ This project is open‑source under the MIT License. See LICENSE for details.
 3. Save it as **`README.md`** in your project folder.  
 4. Commit and push it to GitHub — it will render automatically on your repo’s front page.
 
-Would you like me to also generate a **`requirements.txt`** file in the same way, so you can drop it in alongside the README and have everything ready for GitHub?
 
-
